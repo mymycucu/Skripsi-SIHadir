@@ -25,3 +25,11 @@ Terdapat berapa Apps dan Document yang berada pada repository ini. berikut ini m
 4. Melakukan recording pada setiap pola yang diharapkan
 5. Melakukan save dan post data ke database
 6. Mengulagi pola yang sama beberapa kali untuk mendapatkan gambaran pola secara keseluruhan
+
+## Pengolahan Data
+
+untuk dapat mendapatkan gambaran data yang telah di kumpulkan diperlukan adanya processing lebih lanjut. berikut ini merupakan link google colab terkait dengan pengolahan data.  
+Calibration : https://colab.research.google.com/drive/1TAyH6RujkVP6c1RCO44tQQ9wc3OeQvo8?usp=sharing   
+Placement : https://colab.research.google.com/drive/1fEDr_DkCY1RlSzhWprQcFb4HVNKjPxeF?usp=sharing  
+
+Mengubah model menjadi .mlmodel file : https://colab.research.google.com/drive/1uOpxPcrNi5xDYgTBB5NABAjZ7e1pnBZd?usp=sharing
